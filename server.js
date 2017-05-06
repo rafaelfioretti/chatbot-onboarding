@@ -367,7 +367,7 @@ function sendMainMenu(recipientId){
           buttons: [
             {
                type: "web_url",
-               url: "https://www.original.com.br",
+               url: "https://www.google.com.br",
                title: "acesse nosso site!"
             },
             {
